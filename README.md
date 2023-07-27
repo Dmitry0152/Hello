@@ -1,3 +1,3 @@
 # Hello
-study
+study;
 I want to learn a programming language
